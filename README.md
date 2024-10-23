@@ -1,2 +1,2 @@
-# Dani 23/10/2024 Primer commit ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
+# Dani 23/10/2024 ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
 Hola mundo
